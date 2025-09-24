@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://templerungames.github.io/sitemap.xml
